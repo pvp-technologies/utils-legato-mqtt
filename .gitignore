@@ -11,3 +11,6 @@
 
 # Building directories
 _build_mqttService
+
+# Dev Studio
+.project
